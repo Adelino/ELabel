@@ -83,7 +83,7 @@ namespace ELabel.Models
         [DisplayFormat(DataFormatString = "{0:G} ml")]
         public float PortionVolume { get; set; } = 100f;
 
-        [Display(Name = "Energy", Description = "Energy (kcal/kJ)")]
+        [Display(Name = "Energy", Description = "Energy (kJ/kcal)")]
         public Energy Energy { get; set; } = new();
 
         [Display(Name = "Fat", Description = "Fat (g)")]
