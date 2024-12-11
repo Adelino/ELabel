@@ -142,7 +142,7 @@
     <comment>Antioxidant</comment>
   </data>
   <data name="Bottled and produced by" xml:space="preserve">
-    <value>Engarrafado e produzido por</value>
+    <value>Produzido e engarrafado por</value>
     <comment>Indication of the bottler and producer (if they concern the same natural or legal person). Regulated by Article 46 of Commission Delegated Regulation (EU) 2019/33. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R0033-20231208#art_46</comment>
   </data>
   <data name="Bottled by" xml:space="preserve">
